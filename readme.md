@@ -1,3 +1,3 @@
 ### Study repo
 
-## keep interesting stuff here from all sources
+## keeping track of self-studying elements
